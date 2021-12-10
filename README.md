@@ -4,3 +4,6 @@
 * For this project, I've initally done some flowchart and pseudocode to understand the whole flow of the code.
 * I also learn to use flowchart app called Diagram.net.
 ---
+10/12/21
+* It's been a long time since my last commit, the code file is added.
+* I might not be able to commit actively for a while, I have other commitment with training for Data Engineer.
